@@ -1,5 +1,5 @@
 {
-    "name": "foventest/test",
+    "name": "monolog/test",
     "require": {
         "monolog/monolog": "1.0.*"
     }
